@@ -1,6 +1,6 @@
 {
   "name": "fivem-resourcify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fivem-Resourcify is a CLI tool for easily creating and managing FiveM resources. With Fivem-Resourcify, you can quickly configure and create new resources.",
   "main": "index.js",
   "bin": {
@@ -10,7 +10,12 @@
   "scripts": {
     "uglify": "uglifyjs index.js --compress --mangle --module --output resourcify.min.js"
   },
-  "keywords": ["fivem", "resource", "cli", "commandtool"],
+  "keywords": [
+    "fivem",
+    "resource",
+    "cli",
+    "commandtool"
+  ],
   "author": "berkormanli",
   "license": "ISC",
   "dependencies": {
