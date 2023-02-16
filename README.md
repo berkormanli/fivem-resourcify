@@ -1,7 +1,5 @@
 # Fivem-Resourcify
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![License: MIT](https://img.shields.io/github/license/berkormanli/fivem-resourcify)](https://opensource.org/licenses/MIT)
-[![Release](https://img.shields.io/github/v/release/berkormanli/fivem-resourcify)](https://github.com/berkormanli/fivem-resourcify/releases)
 
 ## Description
 
