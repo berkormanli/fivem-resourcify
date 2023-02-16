@@ -17,7 +17,7 @@
     "commandtool"
   ],
   "author": "berkormanli",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "boxen": "^7.0.1",
     "chalk": "^5.2.0",
